@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Tracks"
+        android:icon="@drawable/baseline_library_music_black_24dp"
+        android:id="@+id/tracks" />
+    <item android:title="Albums"
+        android:icon="@drawable/baseline_library_books_black_24dp"
+        android:id="@+id/albums" />
+    <item android:title="Artists"
+        android:icon="@drawable/baseline_recent_actors_black_24dp"
+        android:id="@+id/artists" />
+    <item android:title="Account"
+        android:icon="@drawable/baseline_account_circle_black_24dp"
+        android:id="@+id/account" />
+
+</menu>
